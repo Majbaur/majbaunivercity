@@ -1,2 +1,1 @@
 # univerticity
-# majba-univercity
